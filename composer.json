@@ -1,0 +1,10 @@
+{
+    "require": {
+        "php-http/guzzle6-adapter": "^2.0",
+        "php-http/discovery": "^1.6",
+        "php-http/message-factory": "^1.0",
+        "zendframework/zend-diactoros": "^2.1",
+        "php-http/message": "^1.7",
+        "vlucas/phpdotenv": "^3.6"
+    }
+}
